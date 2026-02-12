@@ -72,7 +72,7 @@ It supports both **ARP spoofing** and **ARP detection mode**, with MAC caching a
 
 ---
 
-- ### 2️⃣ Detection Mode
+-  2️⃣ Detection Mode
     ```bash
     sudo python3 tool.py -m detect -i <INTERFACE>
     ```
